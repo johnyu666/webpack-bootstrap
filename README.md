@@ -23,7 +23,7 @@
 {test: /\.eot(\?v=\d+\.\d+\.\d+)?$/,use: ['url-loader']},
 {test: /\.svg(\?v=\d+\.\d+\.\d+)?$/,use: ['url-loader']}
 ```
-+ webpack.config.js插件的安装
++ webpack.config.js插件的安装  
 `var webpack = require('webpack')`
 
 ```
